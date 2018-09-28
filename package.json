@@ -1,0 +1,38 @@
+{
+  "name": "winhertz",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd-mobile": "^2.2.5",
+    "classnames": "^2.2.6",
+    "es6-promise": "^4.2.5",
+    "isomorphic-fetch": "^2.2.1",
+    "lodash": "^4.17.11",
+    "prop-types": "^15.6.2",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-fastclick": "^3.0.2",
+    "react-helmet": "^5.2.0",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.3.1",
+    "react-router-redux": "^4.0.8",
+    "react-scripts": "1.1.5",
+    "react-websocket": "^2.0.0",
+    "redux": "^4.0.0",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "babel-plugin-import": "^1.9.1",
+    "less": "^3.8.1",
+    "less-loader": "^4.1.0",
+    "react-app-rewired": "^1.6.2",
+    "react-hot-loader": "^4.3.11"
+  }
+}
