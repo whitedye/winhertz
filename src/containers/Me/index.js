@@ -44,7 +44,7 @@ class Me extends Component {
   }
 
   loginOut(){
-    const { dispatch } = this.props;
+    // const { dispatch } = this.props;
     // dispatch(checkLogin(false));
     console.log('退出登录');
   }

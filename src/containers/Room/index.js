@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
-import { Button, Tabs } from 'antd-mobile';
+import { Button } from 'antd-mobile';
 import style from './index.css';
 
 class Room extends Component {
