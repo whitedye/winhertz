@@ -1,0 +1,22 @@
+.container {
+    height: 115px;
+    width: 200px;
+    background-color: white;
+    border-radius: 10px;
+    border: 1px solid #cccccc;
+}
+.image{
+    height: 38px;
+    width: 50px;
+    margin-left: 75px;
+    margin-top: 25px;
+}
+.contentTrue{
+    font-size: 15px;
+    color: #ee9676;
+    margin-top: 5px;
+}
+.contentFalse{
+    font-size: 15px;
+    margin-top: 5px;
+}

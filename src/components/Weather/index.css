@@ -1,0 +1,23 @@
+.image {
+  height: 38px;
+  width: 50px;
+  margin-left: 155px;
+}
+
+.content {
+  margin-top: 5px;
+  color: #638081;
+  font-size: 18px;
+}
+
+.left {
+  border-left: 1px solid #638081;
+  height:35px;
+  margin-left: 100px
+}
+
+.right {
+  color: #638081;
+  margin-top: -20px;
+  font-size: 18px;
+}

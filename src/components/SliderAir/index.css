@@ -1,0 +1,10 @@
+.reduceDiv{
+    float: left;
+    margin-top: -13px;
+    cursor: pointer;
+}
+.addDiv{
+    float: right;
+    margin-top: -13px;
+    cursor: pointer;
+}

@@ -1,0 +1,14 @@
+.image {
+  margin-top: 7px;
+  height: 30px;
+  width: 50px;
+}
+
+.btnTrue {
+  width: 50px;
+  background-color: #e97951;
+}
+.btnFalse {
+  width: 50px;
+  background-color: #ffffff;
+}

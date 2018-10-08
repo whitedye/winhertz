@@ -1,0 +1,66 @@
+.containerTrue {
+    height: 80px;
+    width: 100px;
+    background-color: #e4744c;
+}
+.containerFalse {
+    height: 80px;
+    width: 100px;
+    background-color: #e6e6e5;
+}
+
+.amBadgeDotTrue sup {
+    position: absolute;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+    -webkit-transform-origin: 0 center;
+    -ms-transform-origin: 0 center;
+    transform-origin: 0 center;
+    top: 8px;
+    left: 88px;
+    height: 7px;
+    width: 7px;
+    border-radius: 100%;
+    background: #69b72d;
+    z-index: 10;
+}
+.amBadgeDotFalse sup {
+    position: absolute;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+    -webkit-transform-origin: 0 center;
+    -ms-transform-origin: 0 center;
+    transform-origin: 0 center;
+    top: 8px;
+    left: 88px;
+    height: 7px;
+    width: 7px;
+    border-radius: 100%;
+    background: #989898;
+    z-index: 10;
+}
+.image{
+    position: absolute;
+    height: 28px;
+    width: 30px;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.contentTrue{
+    position: absolute;
+    font-size: 15px;
+    color: white;
+    height: 15px;
+    margin-top: 52px;
+    margin-left: 35px;
+}
+.contentFalse{
+    position: absolute;
+    font-size: 15px;
+    color: black;
+    height: 15px;
+    margin-top: 52px;
+    margin-left: 35px;
+}

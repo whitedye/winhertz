@@ -1,0 +1,38 @@
+.container {
+    height: 115px;
+    width: 200px;
+    background-color: white;
+    border-radius: 10px;
+    border: 1px solid #cccccc;
+}
+
+.head span {
+    font-size: 15px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.head div {
+    height: 38px;
+    width: 50px;
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.body{
+    margin-top: 40px;
+    margin-left: 15px;
+    height: 28px;
+    width: 40px;
+}
+.switch{
+    float: left;
+    margin-left: 15px;
+    margin-top: -5px;
+}
+.content{
+    margin-top: 11px;
+}
+.content label{
+    font-size: 15px;
+}

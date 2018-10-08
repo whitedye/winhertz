@@ -1,0 +1,53 @@
+.container {
+    height: 190px;
+    width: 350px;
+    border-radius: 8px;
+}
+
+.contentTrue {
+    border-radius: 5px;
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 20px;
+    height: 30px;
+    width: 160px;
+    background-color: white;
+    filter: alpha(Opacity=60);
+    -moz-opacity: 0.6;
+    opacity: 0.6;
+    color: white;
+}
+.contentFalse {
+    border-radius: 5px;
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 20px;
+    height: 30px;
+    width: 160px;
+    background-color: black;
+    filter: alpha(Opacity=60);
+    -moz-opacity: 0.6;
+    opacity: 0.6;
+    color: white;
+}
+.ctSpanTrue {
+    font-size: 20px;
+    color: #e67047;
+    font-weight: 500;
+}
+
+.ctLabelTrue {
+    font-size: 15px;
+    color: #e67047;
+}
+
+.ctSpanFalse {
+    font-size: 20px;
+    color: white;
+    font-weight: 500;
+}
+
+.ctLabelFalse {
+    font-size: 15px;
+    color: white;
+}
