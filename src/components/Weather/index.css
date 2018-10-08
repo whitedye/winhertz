@@ -1,7 +1,10 @@
+.container{
+  width: 300px;
+}
 .image {
   height: 38px;
   width: 50px;
-  margin-left: 155px;
+  margin-left: 125px;
 }
 
 .content {
@@ -13,7 +16,7 @@
 .left {
   border-left: 1px solid #638081;
   height:35px;
-  margin-left: 100px
+  margin-left: 75px
 }
 
 .right {
